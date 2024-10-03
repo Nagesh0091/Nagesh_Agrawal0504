@@ -1,8 +1,9 @@
-
 import pickle
-# Load the model from the pkl file
-with open('C:/Nagesh Agrawal/A__Data Science/B__Assigment/G__LOGISTIC DEPLOYEMENT/logistic_regression_model.pkl', 'rb') as file:
+
+# Load the model from the pkl file using a relative path
+with open('logistic_regression_model.pkl', 'rb') as file:
     model = pickle.load(file)
+
     
 
 import streamlit as st
