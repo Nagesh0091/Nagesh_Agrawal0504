@@ -4,7 +4,7 @@ matplotlib
 scikit-learn
 bioinfokit
 seaborn
-pandas
+pandas==2.2.2
 tensorflow==2.17.0
 keras==3.5.0
 plotly
