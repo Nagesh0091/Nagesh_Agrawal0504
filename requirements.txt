@@ -10,4 +10,4 @@ beautifulsoup4==4.12.2    # For web scraping if needed
 bioinfokit==2.1.4         # Bioinformatics toolkit, include if used
 altair==4.2.0             # Declarative statistical visualization library
 appdirs==1.4.4            # For handling application directories
-pillow==9.4.0
+
